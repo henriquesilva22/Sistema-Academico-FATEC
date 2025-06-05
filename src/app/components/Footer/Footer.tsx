@@ -31,7 +31,7 @@ export default function Footer() {
                 <svg className="w-6 h-6 fill-current hover:text-blue-700" viewBox="0 0 24 24">
                   <path d="M22 12c0-5.522-4.478-10-10-10S2 6.478 2 12c0 5 3.657 9.128 8.438 9.877v-6.987h-2.54v-2.89h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.242 0-1.632.771-1.632 1.562v1.875h2.773l-.443 2.89h-2.33v6.987C18.343 21.128 22 17 22 12z"/>
                 </svg>
-                <span className="text-white">Facebook</span>
+                <span className="text-white">Facebook.</span>
               </a>
             </div>
             <div className="flex items-center justify-center space-x-2">
