@@ -7,7 +7,7 @@ export default function Footer() {
         <ul className="list-disc space-y-2 text-white text-center md:text-left pl-5">
           <li className="font-bold text-xl">Fatec Itapira</li>
           <li>Telefone / WhatsApp: (19) 3863-5210</li>
-          <li>E-mail de suporte: suporte@fatecitapira.edu.br</li>
+          <li>E-mail de suporte:  suporte@fatecitapira.edu.br</li>
         </ul>
         {/* 2 - Links úteis */}
         <ul className="list-disc space-y-2 text-white text-center pl-5">
